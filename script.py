@@ -30,3 +30,15 @@ meal = 'pasta'
 # Printing out dinner
 print("Dinner:")
 print(meal)
+
+# the line below with throw a syntaxerror 
+#print('This message has mismatched quote marks!")
+
+#its a simple fix just match the qoutes so making both qoutes double qoutes will fix the error and vise versa
+print("This message has mismatched quote marks!")
+
+#the line below with throw a nameError because it is loooking for a varible named Abracadabra but it doesnt exist
+#print(Abracadabra)
+
+# there are two ways to fix this add qoutes around the word or make a varible above to match the name
+print("Abracadabra")
