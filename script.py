@@ -7,3 +7,5 @@ print("Hello and welcome " + my_name + "!")
 
 # in python you use print instead of console.log() from javascript
 print("Hello World!")
+# strings can be made with either "" or ''
+print('Brett')
