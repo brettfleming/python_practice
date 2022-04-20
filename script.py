@@ -4,6 +4,8 @@ age = 24
 hometown = 'Red Wing'
 print("Hello and welcome " + my_name + "!")
 print('Hello my name is' + my_name + my_last_name)
+print('I am ' + age + 'years old')
+print('I am from' + hometown)
 
 
 #This is my first python comment lets Go!!!
