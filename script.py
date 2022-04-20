@@ -57,3 +57,6 @@ release_year = 2013
 runtime = 2
 # A float is a number with decimals on the end (so 1.2, -20.5, 100.32354)
 rating_out_of_10 = 7.8
+
+# calculations in python are just like regular math they also fallow order of operations 
+print(25 * 68 + 13 / 28)
