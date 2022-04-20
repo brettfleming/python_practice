@@ -60,3 +60,12 @@ rating_out_of_10 = 7.8
 
 # calculations in python are just like regular math they also fallow order of operations 
 print(25 * 68 + 13 / 28)
+
+# changing numbers in varibles
+quilt_width = 8
+quilt_length = 12
+print(quilt_width * quilt_length)
+# you must reassaign the varible to a diffrent number if you want to change it
+quilt_length = 8
+
+print(quilt_width * quilt_length)
