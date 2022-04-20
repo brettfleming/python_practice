@@ -1,5 +1,10 @@
 my_name = "Brett"
+my_last_name ='flemingo'
+age = 24
+hometown = 'Red Wing'
 print("Hello and welcome " + my_name + "!")
+print('Hello my name is' + my_name + my_last_name)
+
 
 #This is my first python comment lets Go!!!
 #to comment in python you use the # symbol instead of the // like in javascript
