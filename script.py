@@ -49,3 +49,11 @@ print("This message has mismatched quote marks!")
 
 # there are two ways to fix this add qoutes around the word or make a varible above to match the name
 print("Abracadabra")
+
+#Numbers in python can be either integers or floats
+
+# An int or integer is a whole number that can be postive or negative (-20, 5, 1098, and 0)
+release_year = 2013
+runtime = 2
+# A float is a number with decimals on the end (so 1.2, -20.5, 100.32354)
+rating_out_of_10 = 7.8
