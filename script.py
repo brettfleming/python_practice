@@ -144,3 +144,13 @@ And why should I not speak to you?
 
 
 print(to_you)
+
+
+my_age = 24
+half_my_age = my_age / 2
+greeting = 'Hello my name is '
+name = 'Brett'
+greeting_with_name = greeting + name
+
+print(half_my_age)
+print(greeting_with_name)
