@@ -133,3 +133,14 @@ fun_books = 20.00
 # Update total_price here:
 
 print("The total price is", total_price)
+
+# multi-line strings you a triple quote instead of a single
+to_you = """
+Stranger, if you passing meet me and desire to speak to me, why
+  should you not speak to me?
+And why should I not speak to you?
+"""
+
+
+
+print(to_you)
