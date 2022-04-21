@@ -93,3 +93,27 @@ person2 = 28 % 4 # remander of 0 ( this means it evenly divids into the number)
 
 print(person1)
 print(person2)
+
+# Concatenation
+string1 = "The wind, "
+string2 = "which had hitherto carried us along with amazing rapidity, "
+string3 = "sank at sunset to a light breeze; "
+string4 = "the soft air just ruffled the water and "
+string5 = "caused a pleasant motion among the trees as we approached the shore, "
+string6 = "from which it wafted the most delightful scent of flowers and hay."
+
+# Concatenation is combining multiple strings together
+message = string1 + string2 + string3 + string4 + string5 + string6
+
+print(message)
+
+#if you wanted to concatenate a number to a string you have two ways to do it
+birthday_string = "I am "
+age = 10
+birthday_string_2 = " years old today!"
+ 
+# first one is to convert it to a string using str()
+full_birthday_string = birthday_string + str(age) + birthday_string_2
+print(full_birthday_string)
+# the other is to not concatenate it at all and just pass it into a pring statment as an argument
+print(birthday_string, age, birthday_string_2)
