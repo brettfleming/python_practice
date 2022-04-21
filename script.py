@@ -117,3 +117,19 @@ full_birthday_string = birthday_string + str(age) + birthday_string_2
 print(full_birthday_string)
 # the other is to not concatenate it at all and just pass it into a pring statment as an argument
 print(birthday_string, age, birthday_string_2)
+
+# plus-equals operator makes adding things to a varible and reassinging it at the same time easier
+total_price = 0
+nice_sweater = 39.00
+fun_books = 20.00
+new_sneakers = 50.00
+
+total_price += new_sneakers
+# we use the code below instead of total_price = total_price + nice_sweater + fun_books
+total_price += nice_sweater + fun_books
+
+nice_sweater = 39.00
+fun_books = 20.00
+# Update total_price here:
+
+print("The total price is", total_price)
