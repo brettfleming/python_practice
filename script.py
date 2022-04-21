@@ -70,7 +70,9 @@ quilt_length = 8
 
 print(quilt_width * quilt_length)
 
+
 # Calculation of squares for:
+# you can calculate eponentuials using the ** symbol 
 # 6x6 quilt
 print(6 ** 2)
 # 7x7 quilt
