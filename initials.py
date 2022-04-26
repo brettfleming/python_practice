@@ -11,7 +11,7 @@ print('BBBB   F    ')
 
 
 
-
+#a snow man made from ASCII art
 print("      *     *                    ")
 print("                      *          ")
 print("*         *                 *    ")
