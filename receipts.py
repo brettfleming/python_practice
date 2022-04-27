@@ -13,9 +13,9 @@ stylish_settee_price = 180.50
 luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade."
 #the lamps price
 luxurious_lamp_price = 52.15
-
+#sales tax perectage
 sales_tax = .088
-
+#the starting total which should always be zero
 customer_one_total = 0
 
 customer_one_itemization = ""
