@@ -28,9 +28,9 @@ customer_one_itemization += lovely_loveseat_description
 customer_one_total += luxurious_lamp_price
 #adding the lamp to the list
 customer_one_itemization += luxurious_lamp_description
-
+#calculating sales tax of the total
 customer_one_tax = customer_one_total * sales_tax
-
+#adding the sales tax to the customer total
 customer_one_total += customer_one_tax
 
 
