@@ -33,7 +33,7 @@ customer_one_tax = customer_one_total * sales_tax
 #adding the sales tax to the customer total
 customer_one_total += customer_one_tax
 
-
+#printing the information to the console
 print("Customer One Items:")
 print(customer_one_itemization)
 print("Customer One Total:")
