@@ -20,12 +20,13 @@ customer_one_total = 0
 #list of items the customer buys which should start off empty
 customer_one_itemization = ""
 
+#adding the loveseat price to the customer total
 customer_one_total += lovely_loveseat_price
-
+#adding the loveseat to the customers item list
 customer_one_itemization += lovely_loveseat_description
-
+#adding the lamp price to the total
 customer_one_total += luxurious_lamp_price
-
+#adding the lamp to the list
 customer_one_itemization += luxurious_lamp_description
 
 customer_one_tax = customer_one_total * sales_tax
