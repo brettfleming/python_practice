@@ -17,7 +17,7 @@ luxurious_lamp_price = 52.15
 sales_tax = .088
 #the starting total which should always be zero
 customer_one_total = 0
-
+#list of items the customer buys which should start off empty
 customer_one_itemization = ""
 
 customer_one_total += lovely_loveseat_price
