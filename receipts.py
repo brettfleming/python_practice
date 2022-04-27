@@ -9,8 +9,9 @@ stylish_settee_description = "Stylish Settee. Faux leather on birch. 29.50 inche
 #sette price 
 stylish_settee_price = 180.50
 
+#the last item that customer can buy
 luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade."
-
+#the lamps price
 luxurious_lamp_price = 52.15
 
 sales_tax = .088
