@@ -35,3 +35,8 @@ if user_name == "Dave":
 
 if user_name == "angela_catlady_87":
   print("I know it is you, Dave! Go away!")
+
+x = 20
+y = 20
+if x == y:
+  print("These numbers are the same")
