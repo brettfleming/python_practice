@@ -45,3 +45,9 @@ credits = 120
 
 if credits >= 120:
   print('You have enough credits to graduate!')
+
+
+#(2 + 2 + 2 >= 6) and (-1 * -1 < 0)
+statement_one = False
+#(4 * 2 <= 8) and (7 - 1 == 6)
+statement_two = True
