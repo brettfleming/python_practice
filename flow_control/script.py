@@ -69,3 +69,9 @@ gpa = 2.0
 
 if credits >= 120 or gpa >= 2.0:
   print("You have met at least one of the requirements.")
+
+
+#not (4 + 5 <= 9)
+statement_one = False
+#not (8 * 2) != 20 - 4
+statement_two = True
