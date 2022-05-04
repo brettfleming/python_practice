@@ -57,3 +57,9 @@ gpa = 3.4
 
 if credits >= 120 and gpa >= 2.0:
   print("You meet the requirements to graduate!")
+
+
+#(2 - 1 > 3) or (-5 * 2 == -10)
+statement_one = True
+#(9 + 5 <= 15) or (7 != 4 + 3)
+statement_two = True
