@@ -29,5 +29,9 @@ else:
 
 
 
-print(name + ' asks: ' + question)
-print("Magic 8-Ball's answer: " + answer)
+if name == '':
+  print("Question: " + question)
+  print("Magic 8-Ball's answer: " + answer)
+else:
+  print(name + ' asks: ' + question)
+  print("Magic 8-Ball's answer: " + answer)
