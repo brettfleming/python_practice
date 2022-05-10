@@ -24,6 +24,7 @@ score = 0
 
 option1 = 'Fresca'
 option2 = 'V8'
+option3 = 'water'
 option4 = 'A&W'
 
 
@@ -38,7 +39,7 @@ answer = 'a'
 
 
 if answer == 'A' or answer == 'a': 
-  scor += 100
+  score += 100
   print("\nCorrect!")
 else:
   print("\nNope, sorry!")
