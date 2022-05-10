@@ -35,3 +35,10 @@ print("C.", option3)
 print("D.", option4)
   
 answer = 'a'
+
+
+if answer == 'A' or answer == 'a': 
+  scor += 100
+  print("\nCorrect!")
+else:
+  print("\nNope, sorry!")
