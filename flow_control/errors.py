@@ -15,3 +15,13 @@ elif fortune == 3:
   print("You can only connect the dots looking backwards")
 elif fortune == 4:
   print("The fortune you seek is in another cookie")
+
+
+
+# Who Wants To Be A Millionaire 💰 
+
+score = 0
+
+option1 = 'Fresca'
+option2 = 'V8'
+option4 = 'A&W'
