@@ -43,3 +43,14 @@ if answer == 'A' or answer == 'a':
   print("\nCorrect!")
 else:
   print("\nNope, sorry!")
+
+
+# Area Calculator 📏
+
+import math
+
+base = 20
+height = 30
+area = base * height / 2
+
+print("The triangle area is", area)
