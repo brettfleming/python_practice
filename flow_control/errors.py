@@ -61,3 +61,9 @@ width = 12
 area = length * width
 
 print("The rectangle area is" + area )
+
+
+radius = 36
+area = math.pi * radius * radius
+    
+print("The circle area is", area)
