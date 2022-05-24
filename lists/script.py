@@ -56,3 +56,14 @@ shopping_list = ["eggs", "butter", "milk", "cucumbers", "juice", "cereal"]
 last_element = shopping_list[-1] #-1 selects the last element in a list no matter how long the list is
 index5_element = shopping_list[5]
 print(last_element, index5_element)
+
+
+garden_waitlist = ["Jiho", "Adam", "Sonny", "Alisha"]
+
+garden_waitlist[1] = 'Calla'
+
+print(garden_waitlist)
+
+garden_waitlist[-1] = 'Alex'
+
+print(garden_waitlist)
