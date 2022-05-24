@@ -52,6 +52,7 @@ print(employees[5])
 
 shopping_list = ["eggs", "butter", "milk", "cucumbers", "juice", "cereal"]
 
-last_element = shopping_list[-1]
+
+last_element = shopping_list[-1] #-1 selects the last element in a list no matter how long the list is
 index5_element = shopping_list[5]
 print(last_element, index5_element)
