@@ -21,3 +21,13 @@ example_list.append(5)
 #Using Remove
 example_list.remove(5)
 # print(example_list)
+
+
+orders = ["daisies", "periwinkle"]
+#print(orders)
+
+orders.append('tulips')
+#print(orders)
+
+orders.append('roses')
+#print(orders)
