@@ -43,3 +43,8 @@ orders_combined = orders + new_orders
 broken_prices = [5, 3, 4, 5, 4] + [4] #adding in []'s is all you need to do to fix the new list
 
 
+employees = ["Michael", "Dwight", "Jim", "Pam", "Ryan", "Andy", "Robert"]
+
+employee_four = employees[3]
+
+print(employees[5])
