@@ -10,3 +10,14 @@ sam_height_and_testscore = ["Sam", 67, 85.5, True]
 
 #lists can be empty to start 
 my_empty_list = []
+
+
+example_list = [1, 2, 3, 4]
+
+#Using Append
+example_list.append(5)
+# print(example_list)
+
+#Using Remove
+example_list.remove(5)
+# print(example_list)
