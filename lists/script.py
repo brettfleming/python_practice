@@ -95,3 +95,6 @@ print(sams_score)
 
 ellies_score = class_name_test[-1][-1]
 print(ellies_score)
+
+incoming_class = [['Kenny', 'American', 9], ['Tanya', 'Russian', 9], ['Madison', 'Indian', 7]]
+print(incoming_class)
