@@ -81,3 +81,8 @@ new_store_order_list.remove('Mango')
 print(new_store_order_list)
 
 new_store_order_list.remove('Onions') #this throws an error because onions arent in our list
+
+
+heights = [["Jenny", 61], ["Alexus", 70], ["Sam", 67], ["Grace", 64], ['Vik', 68]]
+
+ages = [['Aaron', 15], ['Dhruti', 16]]
