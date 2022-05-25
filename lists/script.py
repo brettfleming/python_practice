@@ -104,3 +104,9 @@ print(incoming_class)
 
 incoming_class[-3][-3] = 'Ken'
 print(incoming_class)
+
+first_names = ['Ainsley', 'Ben', 'Chani', 'Depak']
+preferred_size = ["Small", "Large", "Medium"]
+
+preferred_size.append('Medium')
+print(preferred_size)
