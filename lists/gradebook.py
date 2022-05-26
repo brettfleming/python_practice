@@ -14,6 +14,7 @@ gradebook.append(['visual arts', 93])
 #print(gradebook)
 
 gradebook[-1][-1] += 5
+#print(gradebook)
+
+gradebook[2].remove(85)
 print(gradebook)
-
-
